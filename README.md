@@ -10,21 +10,28 @@ I am a final-year Computer Science student focused on building highly optimized 
 *   **Databases:** PostgreSQL, MySQL, Firebase
 *   **Optimization & Tools:** Google OR-Tools (CP-SAT Solver), Git, GitHub
 
-### Featured Architecture & Projects
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-*   **Constraints-Based Optimization Engine** 
-    *   *Tech:* Python, Google OR-Tools
-    *   *Focus:* Engineered an automated institutional resource allocation system utilizing CP-SAT solvers to resolve complex mathematical and logistical constraints.
-    *   [View Repository](https://github.com/codegeek2005/university-scheduler) 
+---
 
-*   **Lost & Found Hub**
-    *   *Tech:* React.js, Firebase
-    *   *Focus:* Developed and deployed a production-ready campus utility web application featuring real-time database updates and a responsive UI.
-    *   [View Repository](https://github.com/codegeek2005/campus-lf) 
+#### Featured Projects
 
-*   **Sports Management Database System**
-    *   *Tech:* PostgreSQL, ERD Design
-    *   *Focus:* Architected a scalable relational database schema from scratch to manage complex entity relationships and high-volume data querying.
+| Project | What it does | Stack |
+|---|---|---|
+| [university-scheduler](https://github.com/codegeek2005/university-scheduler) | Constraint-based engine that generates conflict-free university timetables in under 30 seconds using Google OR-Tools' CP-SAT solver | Python, Django, OR-Tools |
+| [campus-lf](https://github.com/codegeek2005/campus-lf) | Full-stack lost-and-found platform for students with real-time data and auth | React, Firebase |
+| [react-job-portal](https://github.com/codegeek2005/react-job-portal) | CRUD job listing portal with mock REST API | React, Tailwind CSS |
+
+---
 
 ### Current Focus
 *   Refining Django REST Framework implementations for enterprise-scale multi-tenancy applications.
